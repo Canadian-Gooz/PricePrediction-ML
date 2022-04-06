@@ -1,0 +1,1 @@
+A basic analysis of the popular Ames Housing dataset. Modelling involved training several estimators whose predictions were ultimately combined to produce the final output. 
